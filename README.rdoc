@@ -1,0 +1,5 @@
+= Blog Posts
+
+- http://theoryandlogic.com/post/5890089120/the-ideal-monitoring-service
+- http://conigliaro.org/2011/05/31/monitoring-as-code/
+
