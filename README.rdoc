@@ -3,4 +3,6 @@
 - http://theoryandlogic.com/post/5890089120/the-ideal-monitoring-service
 - http://conigliaro.org/2011/05/31/monitoring-as-code/
 - http://www.devco.net/archives/tag/unimatrix
-
+- http://vuksan.com/blog/2011/06/05/monitoring-links-and-monitoring-anti-pattern-video
+- http://holmwood.id.au/~lindsay/2009/11/09/behaviour-driven-infrastructure-through-cucumber/
+- http://www.semicomplete.com/blog/geekery/rspec-for-nagios-monitoring.html
