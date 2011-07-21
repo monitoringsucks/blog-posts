@@ -9,3 +9,4 @@
 - http://lusislog.blogspot.com/2011/06/why-monitoring-sucks.html
 - http://obfuscurity.com/2011/07/Monitoring-Sucks-Do-Something-About-It
 - http://obfuscurity.com/2011/07/Robots-Are-Cool-and-Shit-But-Seriously
+- http://leastresistance.wordpress.com/2011/07/12/monitoringsucks-terminology-first-stab/
