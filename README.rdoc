@@ -14,10 +14,16 @@
 - http://solarce.org/2012/02/12/why-monitoring-sucks-or-the-future-is-a-toolbox/
 - http://gigaom.com/2012/02/12/why-monitoring-sucks-for-now
 
-= The "Wonderland" series by @jedi4ever (Patrick Debois)
+= The "Wonderland" series by Patrick Debois
 
 - http://jedi.be/blog/2012/01/03/monitoring-wonderland-survey-introduction/
 - http://jedi.be/blog/2012/01/03/monitoring-wonderland-metrics-api-gateways/
 - http://jedi.be/blog/2012/01/03/monitoring-wonderland-nagios-the-mighty-beast/
 - http://jedi.be/blog/2012/01/04/monitoring-wonderland-moving-up-the-stack-application-user-metrics/
 - http://jedi.be/blog/2012/01/04/monitoring-wonderland-visualization/
+
+= The "Latency sucks" series by Lindsay Holmwood
+
+- http://holmwood.id.au/~lindsay/2012/01/09/monitoring-sucks-latency-sucks-more/
+- http://holmwood.id.au/~lindsay/2012/01/11/monitoring-system-equal-web-app-when-diagnosing-performance-bottlenecks/
+- http://holmwood.id.au/~lindsay/2012/01/13/instrumenting-your-monitoring-checks-with-new-relic/
