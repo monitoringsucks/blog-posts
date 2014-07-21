@@ -13,6 +13,7 @@
 - http://lusislog.blogspot.com/2011/07/monitoring-sucks-watch-your-language.html
 - http://solarce.org/2012/02/12/why-monitoring-sucks-or-the-future-is-a-toolbox/
 - http://gigaom.com/2012/02/12/why-monitoring-sucks-for-now
+- http://engineering.linkedin.com/52/autometrics-self-service-metrics-collection
 
 = The "Wonderland" series by Patrick Debois
 
